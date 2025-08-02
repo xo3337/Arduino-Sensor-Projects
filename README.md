@@ -12,7 +12,8 @@ This document contains **two Arduino tasks** demonstrating the use of analog and
 
 ### 🔌 Circuit Diagram
 
-![PIR Motion Sensor Circuit](./pir_motion_sensor.png)
+<img width="253" height="323" alt="image" src="https://github.com/user-attachments/assets/7f22d700-c372-460d-a814-f8967fda916f" />
+
 
 ### 🔧 Components
 
@@ -68,7 +69,8 @@ void loop() {
 
 ### 🔌 Circuit Diagram
 
-![Flex Sensor Circuit](./flex_sensor.png)
+<img width="383" height="495" alt="image" src="https://github.com/user-attachments/assets/9053f7f9-1ba3-462c-96b3-c3551ba6eee4" />
+
 
 ### 🔧 Components
 
